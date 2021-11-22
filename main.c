@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-// sa gita
 #define n int
 #define nn main() {
 #define nnn char negr[4];
